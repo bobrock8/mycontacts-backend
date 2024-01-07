@@ -6,3 +6,5 @@ Express project for my contacts backend
 - npm install -g nodemon
 - npm install --save-dev nodemon
 - npm i dotenv
+
+#### For testing endpoints we're using `Thunder Client`. You can also try with `Postman`
