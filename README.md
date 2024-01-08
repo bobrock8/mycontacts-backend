@@ -9,6 +9,8 @@ Express project for my contacts backend
 - npm install --save-dev nodemon
 - npm i dotenv
 - npm i express-async-handler
+- npm install mongodb
+
 
 #### For testing endpoints we're using `Thunder Client`. You can also try with `Postman`.
 
