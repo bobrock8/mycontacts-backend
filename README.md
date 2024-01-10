@@ -10,7 +10,7 @@ Express project for my contacts backend
 - npm i dotenv
 - npm i express-async-handler
 - npm install mongodb
-- nmp install mongose
+- nmp install mongoose
 
 
 #### For testing endpoints we're using `Thunder Client`. You can also try with `Postman`.
